@@ -1,0 +1,14 @@
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\bin\Debug\net8.0\Lab1c#.exe
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\bin\Debug\net8.0\Lab1c#.deps.json
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\bin\Debug\net8.0\Lab1c#.runtimeconfig.json
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\bin\Debug\net8.0\Lab1c#.dll
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\bin\Debug\net8.0\Lab1c#.pdb
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\obj\Debug\net8.0\Lab1c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\obj\Debug\net8.0\Lab1c#.AssemblyInfoInputs.cache
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\obj\Debug\net8.0\Lab1c#.AssemblyInfo.cs
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\obj\Debug\net8.0\Lab1c#.csproj.CoreCompileInputs.cache
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\obj\Debug\net8.0\Lab1c#.dll
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\obj\Debug\net8.0\refint\Lab1c#.dll
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\obj\Debug\net8.0\Lab1c#.pdb
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\obj\Debug\net8.0\Lab1c#.genruntimeconfig.cache
+C:\Users\Artechk\source\repos\Lab1c#\Lab1c#\obj\Debug\net8.0\ref\Lab1c#.dll
